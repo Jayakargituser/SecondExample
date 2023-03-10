@@ -32,7 +32,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>
-                            src\test\resources\basics\testng.xml
+                            src\test\basics\testng.xml
                         </suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
